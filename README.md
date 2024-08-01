@@ -2,7 +2,7 @@
 
 Meu nome é Ariele Pereira 
 
-### Estou estudando na Alura
+### Estou estudando na [Alura](https://www.alura.com)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
